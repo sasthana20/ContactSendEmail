@@ -119,10 +119,6 @@ export default class CemSendEmail extends LightningElement {
     get acceptedFileItem() {
         return ['.pdf', '.png', '.jpg', '.jpeg'];
     }
-
-    get acceptedFormats() {
-        return ['.pdf', '.png','.jpg','.jpeg'];
-    }
     
     get emailTemplateoptions() {
         return [{
