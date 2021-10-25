@@ -3,9 +3,7 @@
 <types>
         <members>cemSendEmailQueueable</members> 
         <members>cemSendEmailController</members>
-        <members>cemSendEmailController_Test</members>
         <members>cemInsertEmailTemplateQueueable</members>
-        <members>SendEmailController</members>
         <members>LookupSearchResult</members>
         <members>DLPFlagControllerTest</members>
         <members>DLPFlagController</members>
